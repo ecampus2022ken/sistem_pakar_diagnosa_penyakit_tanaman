@@ -3,8 +3,8 @@
 {"type":"database","name":"sikar"},
 {"type":"table","name":"gejala","database":"sikar","data":
 [
-{"kd_gejala":"G01","gejala":"Bercak basah pada pangkal bibit"},
-{"kd_gejala":"G02","gejala":"Batang  layu dan rebah"},
+{"kd_gejala":"G01","gejala":"01. Bercak basah pada pangkal bibit"},
+{"kd_gejala":"G02","gejala":"02. Batang  layu dan rebah"},
 {"kd_gejala":"G03","gejala":"Daun seperti tersiram air panas, kemudian coklat dan membusuk dan melebar"},
 {"kd_gejala":"G04","gejala":"Buah seperti tersiram air panas,  kemudian membusuk basah"},
 {"kd_gejala":"G05","gejala":"Muncul bercak kekuningan dengan bentuk kotak-kotak mengikuti alur tulang daun yang dimulai dari daun tua"},
