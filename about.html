@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Beranda - Sistem Diagnosa Penyakit Sayuran</title>
+    <title>Tentang - Sistem Diagnosa Penyakit Sayur</title>
     
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -35,10 +35,8 @@
             padding: 20px;
         }
         .card {
-            transition: transform 0.3s ease-in-out;
-        }
-        .card:hover {
-            transform: scale(1.05);
+            border: none;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
@@ -74,67 +72,71 @@
             }
         }
     </script>
-    
+
+ 
+
     <!-- Hero Section -->
     <div class="hero">
         <div class="hero-overlay">
-            <h1 class="display-4">Sistem Diagnosa Penyakit Sayuran</h1>
-            <p class="lead">Identifikasi penyakit Sayuran dengan cepat dan dapatkan solusi terbaik.</p>
-            <!-- <a href="diagnosa.html" class="btn btn-warning btn-lg mt-3">Mulai Diagnosa</a> -->
+            <h1 class="display-4">Tentang Sistem Pakar Diagnosa Penyakit Sayur</h1>
+            <p class="lead">Solusi cerdas untuk membantu petani dalam mengidentifikasi dan menangani penyakit tanaman.</p>
         </div>
     </div>
 
     <!-- Content Section -->
     <div class="container mt-5">
-        <div class="row text-center g-4">
-            <div class="col-md-12">
-                <div class="card shadow-sm p-4">
-                    <h5>Selamat Datang di Sistem Pakar Diagnosa Penyakit Sayuran</h5>
+        <div class="row">
+            <div class="col-lg-8 mx-auto">
+                <div class="card p-4">
+                    <h3 class="text-center">Apa Itu Sistem Pakar Diagnosa Penyakit Sayur?</h3>
+                    <p class="text-muted text-center">Platform digital untuk deteksi penyakit tanaman secara akurat</p>
                     <p>
-                        Sayur Sayuran yang sehat adalah kunci keberhasilan panen yang optimal. Namun, serangan hama dan penyakit dapat menghambat pertumbuhan serta mengurangi hasil panen.
-                        Sistem pakar ini hadir untuk membantu petani dan pecinta Sayuran dalam mendiagnosa penyakit pada berbagai jenis Sayuran. Dengan teknologi berbasis kecerdasan buatan, sistem ini dapat memberikan analisis cepat dan rekomendasi penanganan yang tepat.
+                        Sistem Pakar Diagnosa Penyakit Sayur adalah platform digital yang dirancang untuk membantu petani, 
+                        peneliti, dan pecinta tanaman dalam mengidentifikasi serta menangani berbagai penyakit pada tanaman sayuran.
+                    </p>
+                    <p>
+                        Dibangun dengan basis data yang luas dan didukung oleh algoritma kecerdasan buatan, sistem ini memberikan 
+                        diagnosa yang cepat dan akurat berdasarkan gejala yang terdeteksi. Kami berkomitmen untuk membantu 
+                        meningkatkan produktivitas pertanian dengan solusi yang mudah diakses dan efektif.
                     </p>
                 </div>
             </div>
         </div>
-        <div class="row text-center g-4 mt-4">
-            <div class="col-md-4">
-                <div class="card shadow-sm p-3">
-                    <h5><i class="bi bi-search"></i> Identifikasi Cepat</h5>
-                    <p>Sistem ini membantu mendeteksi penyakit Sayuran dengan cepat berdasarkan gejala yang Anda pilih.</p>
+
+        <!-- Visi & Misi Section -->
+        <div class="row mt-5">
+            <div class="col-lg-6">
+                <div class="card p-4 bg-light">
+                    <h4 class="text-success">🌱 Visi</h4>
+                    <p class="text-muted">Mewujudkan pertanian yang lebih produktif dan berkelanjutan melalui teknologi cerdas.</p>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card shadow-sm p-3">
-                    <h5><i class="bi bi-flower1"></i>Rekomendasi Pengobatan</h5>
-                    <p> Solusi organik dan kimia untuk mengatasi masalah tanaman.</p>
+            <div class="col-lg-6">
+                <div class="card p-4 bg-light">
+                    <h4 class="text-success">🎯 Misi</h4>
+                    <ul class="text-muted">
+                        <li>Memberikan informasi akurat tentang penyakit sayuran.</li>
+                        <li>Menyediakan rekomendasi solusi yang tepat guna.</li>
+                        <li>Meningkatkan kesadaran petani akan pentingnya deteksi dini penyakit tanaman.</li>
+                    </ul>
                 </div>
             </div>
-            <div class="col-md-4">
-                <div class="card shadow-sm p-3">
-                    <h5><i class="bi bi-book"></i> Mudah Digunakan</h5>
-                    <p> Antarmuka yang ramah pengguna untuk semua kalangan.</p>
-                </div>
-            </div>
+        </div>
+
+        <!-- Call to Action -->
+        <div class="text-center mt-5">
+            <h4>💡 Mari bersama-sama menjaga tanaman tetap sehat dan panen melimpah!</h4>
+         
         </div>
     </div>
 
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3 mt-5">
-        &copy; 2025 Sistem Diagnosa Penyakit Sayuran
+        &copy; 2025 Sistem Diagnosa Penyakit Sayur 
     </footer>
 
     <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    
-    <script>
-        function loadNavbar() {
-            const timestamp = new Date().getTime();
-            fetch(`navbar.html?t=${timestamp}`)
-                .then(response => response.ok ? response.text() : Promise.reject("Gagal memuat navbar"))
-                .then(data => document.getElementById("navbar-placeholder").innerHTML = data)
-                .catch(error => console.error(error));
-        }
-    </script>
+
 </body>
 </html>
