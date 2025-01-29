@@ -1,0 +1,679 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"sikar"},
+{"type":"table","name":"gejala","database":"sikar","data":
+[
+{"kd_gejala":"G01","gejala":"Bercak basah pada pangkal bibit"},
+{"kd_gejala":"G02","gejala":"Batang  layu dan rebah"},
+{"kd_gejala":"G03","gejala":"Daun seperti tersiram air panas, kemudian coklat dan membusuk dan melebar"},
+{"kd_gejala":"G04","gejala":"Buah seperti tersiram air panas,  kemudian membusuk basah"},
+{"kd_gejala":"G05","gejala":"Muncul bercak kekuningan dengan bentuk kotak-kotak mengikuti alur tulang daun yang dimulai dari daun tua"},
+{"kd_gejala":"G06","gejala":"Terdapat serbuk putih pada bagian atas dan bawah daun"},
+{"kd_gejala":"G07","gejala":"Daun Mengering"},
+{"kd_gejala":"G08","gejala":"Batang dilapisi tepung"},
+{"kd_gejala":"G09","gejala":"Permukaan buah tampak berwarna coklat kering bulat berbintik hitam melingkar, kemudian melebar hingga buah busuk dan mengering"},
+{"kd_gejala":"G10","gejala":"Daun Layu"},
+{"kd_gejala":"G11","gejala":"Daun Rusak"},
+{"kd_gejala":"G12","gejala":"Saat cuaca panas maksimum (tengah hari) semua tanaman layu tapi kondisi tanah tidak kering"},
+{"kd_gejala":"G13","gejala":"Tanaman akan layu sejak  suhu udara mulai naik."},
+{"kd_gejala":"G14","gejala":"Terdapat bercak-bercak kecil berbentuk  bulat dan berwarna kekuningan pada daun. Kemudian meluas,  kemudian bercak berwarna pucat putih dan di sekeliling tepinya berwarna kecoklatan"},
+{"kd_gejala":"G15","gejala":"Pucuk tanaman mengecil"},
+{"kd_gejala":"G16","gejala":"Mulai dari batang, tangkai daun, pucuk tunas, sampai bunga tampak busuk basah dan berbau busuk menyengat."},
+{"kd_gejala":"G17","gejala":"Tanaman akan layu pada bagian bawah hanya pada siang hari apabila di pagi hari segar kembali"},
+{"kd_gejala":"G18","gejala":"Tulang daun menguning \/daun menguning"},
+{"kd_gejala":"G19","gejala":"Seluruh bagian  tanaman layu"},
+{"kd_gejala":"G20","gejala":"Apabila batang  bawah tanaman dipotong maka tampak lingkar kecoklatan"},
+{"kd_gejala":"G21","gejala":"Layu bagian pucuk secara permanen"},
+{"kd_gejala":"G22","gejala":"Seluruh bagian tanaman akan layu secara permanen"},
+{"kd_gejala":"G23","gejala":"Pangkal batang tanaman di potong lalu di celupkan kedalam air bersih  keluar cairan putih susu, posisi tanaman yang terserang berkelompok dalam petak atau blok lahan"},
+{"kd_gejala":"G24","gejala":"Apabila di cabut maka akan tampak kulit akar akan berwarna coklat kehitaman dan terkelupas"},
+{"kd_gejala":"G25","gejala":"Pertumbuhan tanaman kerdil"},
+{"kd_gejala":"G26","gejala":"Ukuran daun lebih kecil"},
+{"kd_gejala":"G27","gejala":"Sepanjang tulang daun terdapat jaringan menguning dan hijau gelap"},
+{"kd_gejala":"G28","gejala":"Tulang daun menonjol dan berkelok-kelok dengan pinggiran daun yang bergelombang"},
+{"kd_gejala":"G29","gejala":"Akar tanaman rusak "},
+{"kd_gejala":"G30","gejala":"Daun menggulung"},
+{"kd_gejala":"G31","gejala":"Terdapat bintik berwarna putih pada daun, kemudian membentuk garis berkelok-kelok pada daun, lama-kelamaan garis-garis tersebut memenuhi daun sehingga menjadi warna keputih-putihan dan akhirnya daun mengering dan mati."},
+{"kd_gejala":"G32","gejala":"Daun berlubang dan tidak rata"},
+{"kd_gejala":"G33","gejala":"Terdapat bercak kuning hingga coklat pada daun"},
+{"kd_gejala":"G34","gejala":"Bagian bawah daun seperti berkilap"},
+{"kd_gejala":"G35","gejala":"Daun keriting"},
+{"kd_gejala":"G36","gejala":"Daun gugur sebelum waktunya (rontok)"},
+{"kd_gejala":"G37","gejala":"Terdapat bercak coklat pada daun"},
+{"kd_gejala":"G38","gejala":"Terdapat banyak kutu (serangga) menggumpal menggerogoti daun dan buah pada sayuran"},
+{"kd_gejala":"G39","gejala":"Akar membengkak"},
+{"kd_gejala":"G40","gejala":"Pada permukaan bawah daun terdapat bercak putih keabu-abuan, seperti kapas"}
+]
+}
+,{"type":"table","name":"pencegahan","database":"sikar","data":
+[
+{"kd_pencegahan":"PP01","kode":"P01","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP02","kode":"P02","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP03","kode":"P03","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP04","kode":"P04","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP05","kode":"P05","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP06","kode":"P06","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP07","kode":"P07","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP08","kode":"P08","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP09","kode":"P09","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP10","kode":"P10","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP11","kode":"P11","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP12","kode":"P12","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP13","kode":"P13","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP14","kode":"P14","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP15","kode":"P15","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP16","kode":"P16","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP17","kode":"P17","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP18","kode":"P18","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP19","kode":"P19","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP20","kode":"P20","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP21","kode":"P21","deskripsi":"TESTING"},
+{"kd_pencegahan":"PP22","kode":"P22","deskripsi":"TESTING"}
+]
+}
+,{"type":"table","name":"penyakit","database":"sikar","data":
+[
+    {
+        "kode": "P01",
+        "nama_penyakit": "Rebah batang (Rhizoctonia)",
+        "penyebab": "Fungi (jamur), menular melalui udara (air born), suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Mint ",
+                "solusi": "Bahan dan alat: -\t250 gram daun mint -\t2 liter air -\tAlat tumbuk atau bender -\tPenyaring  -\tEmber  Cara membuat: -\tHancurkan daun min sampai halus -\tTambahkan air -\tAduk sampai rata, lalu saring Cara menggunakan: Semprotkan pada tanaman yang terserang penyakit atau bakteri pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak bawang putih",
+                "solusi": "Bahan  dan alat: -\t100 hingga 200 gram bawang putih -\tDetergen atau sabun -\t1 liter air -\tAlat tumbuk atau blender -\tBotol  -\tsaringan  Cara membuat: -\thancurkan bawang putih sampai halus, lalu campurkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan aircd dan detergen -\taduk hngga rata, lalu saring -\tsimpan dalam botol  Cara menggunakan: -\ttambahkan larutan air dengan perbandingan 1 : 9 air, lalu kocok sampai rata -\tsemprotkan ke semua bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P02",
+        "nama_penyakit": "Busuk daun dan buah (phytophtora)",
+        "penyebab": "Fungi (Jamur), menular melalui udara,  suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun sirih ",
+                "solusi": "Bahan dan alat:\t -\t300 gram daun sirih -\t1 liter air -\tBlender atau penumbuk Cara membuat: -\tHancurkan daun sirih sampai halus -\tCampur dengan 1 liter air Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun sirih ",
+                "solusi": "Bahan dan alat:\t -\t300 gram daun sirih -\t1 liter air -\tBlender atau penumbuk Cara membuat: -\tHancurkan daun sirih sampai halus -\tCampur dengan 1 liter air Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P03",
+        "nama_penyakit": "Embun bulu (pseudomonas)",
+        "penyebab": "Fungi (jamur), menular melalui udara , suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Mint ",
+                "solusi": "Bahan dan alat: -\t250 gram daun mint -\t2 liter air -\tAlat tumbuk atau bender -\tPenyaring  -\tEmber  Cara membuat: -\tHancurkan daun min sampai halus -\tTambahkan air -\tAduk sampai rata, lalu saring Cara menggunakan: Semprotkan pada tanaman yang terserang penyakit atau bakteri pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P04",
+        "nama_penyakit": "Embun tepung (cendawan)",
+        "penyebab": "Fungi (jamur), menular melalui udara, suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Fermentasi ekstrak kenikir",
+                "solusi": "Bahan dan alat -\t5 hingga 10 tanaman kenikir yang sedang berbunga -\t20 liter air -\tDetergen atau sabun -\tAlat penyaring -\tDrum  Cara membuat: -\tMasukkan tanaman kenikir dan air ke dalam drum -\tBiarkan selama 5 sampai 10 hari -\tAduk secara berkala dan saring sebelum digunakan Cara menggunakan: -\tCampurkan larutan hasil fermentasi dengan air perbandingan 1 : 2 -\tTambahkan 1 sendok the detergen setiap 1 liter air -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Jahe bubuk",
+                "solusi": "Bahan dan alat -\t20 gram bubuk jahe -\t1 liter air -\tEmber Cara membuat: -\tMasukkan bubuk jahe ke alam air  -\tAduk rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak kunyit",
+                "solusi": "Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun pepaya ",
+                "solusi": "Bahan dan alat: -\t50 gram irisan daun pepaya  -\t8 sampai 12 ml detergen atau sabun -\tAir  -\tEmber -\tsaringan Cara membuat: -\tRendam irisan daun epaya dalam 100 ml air  -\tAduk hingga tercampur rata -\tRendam selama 24 jam -\tPeras larutan dengan kain halus -\tTambahkan 2 sampai 3 liter air -\tAduk hingga rata  Cara mengguankan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit atau hama pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Bawang putih ",
+                "solusi": "Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak bawang putih",
+                "solusi": "Bahan  dan alat: -\t100 hingga 200 gram bawang putih -\tDetergen atau sabun -\t1 liter air -\tAlat tumbuk atau blender -\tBotol  -\tsaringan  Cara membuat: -\thancurkan bawang putih sampai halus, lalu campurkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan aircd dan detergen -\taduk hngga rata, lalu saring -\tsimpan dalam botol  Cara menggunakan: -\ttambahkan larutan air dengan perbandingan 1 : 9 air, lalu kocok sampai rata -\tsemprotkan ke semua bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P08",
+        "nama_penyakit": "Akar Gada (akar benjol-benjol)",
+        "penyebab": "Fungi (jamur), Penyebarannya didalam tanah (soil born)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Fermentasi ekstrak kenikir",
+                "solusi": "Bahan dan alat -\t5 hingga 10 tanaman kenikir yang sedang berbunga -\t20 liter air -\tDetergen atau sabun -\tAlat penyaring -\tDrum  Cara membuat: -\tMasukkan tanaman kenikir dan air ke dalam drum -\tBiarkan selama 5 sampai 10 hari -\tAduk secara berkala dan saring sebelum digunakan Cara menggunakan: -\tCampurkan larutan hasil fermentasi dengan air perbandingan 1 : 2 -\tTambahkan 1 sendok the detergen setiap 1 liter air -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P14",
+        "nama_penyakit": "Ulat perusak daun",
+        "penyebab": "Ulat",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Brotowali",
+                "solusi": "Bahan dan alat : -\t200 gram batang brotowali\t- 1 liter air -\t Alat tumbuk\t\t\t-  Blender  -\t Pisau\t\t\t\t-  Ember  Cara membuat: -\tRajang batang brotowali dengan pisau lalu tumbuk atau bleder -\tRendam dalam 1 liter air, aduk, lalu saring  Cara menggunakan: -\tRendam benih yang akan di tanam selama 24 jam di dalam larutan tersebut   -\tSemprotkan ke bagian tanaman yang terserang hama atau penyakit ini, pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak buah Mengkudu",
+                "solusi": "Bahan dan Alat:  -\t1 kg buah mengkudu matang\t\t-  0,5 kg daun nangka -\t0,5 kg tembakau\t\t\t\t-  1 sampai 2 gram detergen -\t1 sampai 5 liter air\t\t\t\t\t-  Alat tumbuk atau blender -\tSaringan  Cara membuat: -\tHancurkan semua bahan hingga halus menggunakan blender atau alat tumbuk -\tTambahkan 2-5 liter air, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang pada pagi hari"
+            },
+            {
+                "nama_obat": "Kombinasi ekstrak Cabe, Bawang Merah dan Bawang Putih",
+                "solusi": "Bahan dan alat: -\t1 sendok the bubuk cabe\t\t-  1 siung bawang putih -\t1 butir bawang merah\t\t-  1 liter air -\t1 sendok teh sabun\t\t\t-  Pisau -\tSaringan \t\t\t\t-  Ember Cara menbuat : -\tHancurkan bawang putih dan bawang merah -\tCampurkan dengan bubuk cabe -\tTambahkan air dan aduk rata -\tBiarkan larut dalam 1 jam, lalu saring Cara menggunakan: -\tSemprotkan ke tanaman yang terserang hama pada pagi atau sore hari.ulangi penyemprotan bila perlu -\tApabila tidak mempunyai sprayer ,gunakan sikat yang terbuat dari jerami.caranya celupkan jerami kedalam cairan lalu sikatkan ke bagian tanaman yang terserang hama"
+            },
+            {
+                "nama_obat": "Ekstrak Sirih dan Tembakau",
+                "solusi": "Bahan dan alat: -\tDaun sirih 50 lembar\t\t-  Ember  -\tDaun tembakau 5 lembar\t\t-  Alat penyaring -\t20 liter air\t\t\t\t-  Alat penumbuk -\tSabun cair 20 gram\t\t- Alat pengaduk Cara membuat -\tTumbuk daun sirih dan tembakau hingga halus -\tMasukkan bahan yang sudah di haluskan kedalam ember lalu campur dengan air  dan aduk hingga rata Diamkan selama satu malam -\tSaring larutan lalu encerkan dengan 50 sampai 60 liter air Cara menggunakan: -\tSemprotkan pada tanaman yang terserang "
+            },
+            {
+                "nama_obat": "Ekstrak Bawang putih ",
+                "solusi": "Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P05",
+        "nama_penyakit": "Patek (antraknosa)",
+        "penyebab": "Fungi (jamur), menular melalui udara, suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak Jahe",
+                "solusi": "Bahan dan alat: -\t50 gram jahe\t\t\t\t-  Alat tumbuk atau blender -\t12 ml detergen\t\t\t\t-  Saringan -\t3 liter air\t\t\t\t-   Ember Cara membuat:\t -\tHancurkan jahe sampai halus -\tTambahkan air dan detergen -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun kelor ",
+                "solusi": "Bahan dan alat: -\t5 kg daun kelor -\t5 liter air -\tPisau -\tAlat tumbuk atau blender -\tsaringan Cara membuat :\t -\tCuci bersih daun kelor -\tCacah dan tumbuk sampai halus -\tTambahkan air -\tRendam sampai 24 jam -\tSaring hasil rendaman Cara menggunakan: -\tEmprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Bawang putih ",
+                "solusi": "Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P06",
+        "nama_penyakit": "Bercak daun  (cercospora sp)",
+        "penyebab": "Fungi (jamur), menular melalui udara, suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak daun iler",
+                "solusi": "Bahan dan alat: -\t5 kg daun iler  -\t5 liter air  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tcuci daun sampai bersih -\ttumbuk sampai halus -\ttambahkan air lalu saring Cara menggunakan: -\tsemprotkan pada tanaman yang terserang pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P09",
+        "nama_penyakit": "Busuk lunak",
+        "penyebab": "Bakteri, menyebar melalui udara dan di dalam tanah (air born and soil born), suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Jahe bubuk",
+                "solusi": "Bahan dan alat -\t20 gram bubuk jahe -\t1 liter air -\tEmber Cara membuat: -\tMasukkan bubuk jahe ke alam air  -\tAduk rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Tanaman Putri Malu",
+                "solusi": "Bahan dan Alat -\t10 kg tanaman Putri malu  -\t5 liter air -\tPisau -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tCuci tanaman hingga bersih -\tCacah dengan pisau -\tTumbuk atau giling sampai halus -\tRendam di dalam air selama 24 jam, lalu saring  Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit pada pagi  atau sore atau pagi hari"
+            },
+            {
+                "nama_obat": "Ekstrak Bawang putih ",
+                "solusi": "Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P10",
+        "nama_penyakit": "Bujang layu  ( fusarium )",
+        "penyebab": "Fungi (jamur), Penyebarannya didalam tanah (soil born)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak daun cengkih",
+                "solusi": "Bahan dan alat: -\t50 sampai 100 gram dauncengkeh kering -\tAlat tumbuk atau blender Cara membuat: -\tTumbuk daun cengkih sampai halus  Cara menggunakan: -\tTaburkan di sekitar tanaman yang terserang penyakit"
+            }
+        ]
+    },
+    {
+        "kode": "P15",
+        "nama_penyakit": "Ulat grayak",
+        "penyebab": "Ulat",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Kombinasi ekstrak Cabai Merah dan daun Mimba",
+                "solusi": "Bahan dan Alat: -\t10 sampai 20 buah cabai merah\t\t\t-  2 sendok the sabun -\t2 sampai 2,5 daun mimba segar\t\t\t-  Alat tumbuk atau blender -\t21 liter air\t\t\t\t\t-  Ember Cara membuat: -\tHancurkan cabai merah dengan daun mimba sampai halus -\tTambahkan 1 liter air -\tBiarkan selama 24 jam -\tSaring -\tTambahkan 20 liter air dan sabun kedalam larutan  -\tAduk hingga rata Cara menggunakan: -\tKocok dahulu sebelum digunakan -\tTuang larutan kedalam sprayer, lalu semprotkan ke bagian tanaman yang terserang hama pada pagi dan sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak Jahe, Bawang putih dan Cabai ",
+                "solusi": "Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P19",
+        "nama_penyakit": "Tungau",
+        "penyebab": "Hama (Serangga)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak daun gamal dan Mimba",
+                "solusi": "Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"
+            },
+            {
+                "nama_obat": "Ekstrak Pacar Cina",
+                "solusi": "Bahan dan alat: -\t5 hingga 100 gram ranting atau kulit batang -\t1 gram sabun atau detergen   -\tEmber  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tHancurkan kulit batang atau ranting -\tRebus dengan 1 liter  air selama 45 – 75 menit -\tDinginkan, lau tambahkan deterjen -\tAduk sampai merata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi hari  13.Hama trips, ulat penggulung daun"
+            },
+            {
+                "nama_obat": "Ekstrak kunyit",
+                "solusi": "Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P11",
+        "nama_penyakit": "Layu Bakteri",
+        "penyebab": "Bakteri, menyebar melalui tanah (soil born)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            }
+        ]
+    },
+    {
+        "kode": "P12",
+        "nama_penyakit": "Virus komplek (virus mosaic)",
+        "penyebab": "Virus(virus cucumber mosaic, virus chili veinal mottle, potato virus Y, tobacco mosaic)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Kombinasi ekstrak Cabai Merah dan daun Mimba",
+                "solusi": "Bahan dan Alat: -\t10 sampai 20 buah cabai merah\t\t\t-  2 sendok the sabun -\t2 sampai 2,5 daun mimba segar\t\t\t-  Alat tumbuk atau blender -\t21 liter air\t\t\t\t\t-  Ember Cara membuat: -\tHancurkan cabai merah dengan daun mimba sampai halus -\tTambahkan 1 liter air -\tBiarkan selama 24 jam -\tSaring -\tTambahkan 20 liter air dan sabun kedalam larutan  -\tAduk hingga rata Cara menggunakan: -\tKocok dahulu sebelum digunakan -\tTuang larutan kedalam sprayer, lalu semprotkan ke bagian tanaman yang terserang hama pada pagi dan sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun pepaya ",
+                "solusi": "Bahan dan alat: -\t50 gram irisan daun pepaya  -\t8 sampai 12 ml detergen atau sabun -\tAir  -\tEmber -\tsaringan Cara membuat: -\tRendam irisan daun epaya dalam 100 ml air  -\tAduk hingga tercampur rata -\tRendam selama 24 jam -\tPeras larutan dengan kain halus -\tTambahkan 2 sampai 3 liter air -\tAduk hingga rata  Cara mengguankan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit atau hama pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P16",
+        "nama_penyakit": "Ulat tanah",
+        "penyebab": "Ulat",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak daun gamal dan Mimba",
+                "solusi": "Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"
+            },
+            {
+                "nama_obat": "Ekstrak kunyit",
+                "solusi": "Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun pepaya ",
+                "solusi": "Bahan dan alat: -\t1 kg daun pepaya -\t10 literair -\tDetergen atau sabun -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tHancurkan daun pepaya -\tTambahkan 10 liter air -\tBiarkan selama 2 hari -\tTambahkan  detergen atau sabun,lalu aduk hingga tercampur merata Cara menggunakan: -\tSemprotkan ke seluruh  bagian tanaman yang terkena panyakit pada pagi hari"
+            }
+        ]
+    },
+    {
+        "kode": "P20",
+        "nama_penyakit": "Wereng",
+        "penyebab": "Hama (Serangga)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Brotowali",
+                "solusi": "Bahan dan alat : -\t200 gram batang brotowali\t- 1 liter air -\t Alat tumbuk\t\t\t-  Blender  -\t Pisau\t\t\t\t-  Ember  Cara membuat: -\tRajang batang brotowali dengan pisau lalu tumbuk atau bleder -\tRendam dalam 1 liter air, aduk, lalu saring  Cara menggunakan: -\tRendam benih yang akan di tanam selama 24 jam di dalam larutan tersebut   -\tSemprotkan ke bagian tanaman yang terserang hama atau penyakit ini, pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Mimba ",
+                "solusi": "Bahan dan alat: -\tAir 1 liter\t\t\t\t-  Baskom atau ember -\tAlkohol 70% 1 cc\t\t\t-  Alat penyaring -\tDaun mimba 50 gram\t\t            -  Sprayer -\tAlat penumbuk/penghalus Cara membuat: -\tTumbuk daun mimba hingga halus -\tMasukkan bahn yang sudah halus kedalam ember -\tTambahkan alkohol dan aduk hingga rata -\tEncerkan dengan 1 liter air -\tEndapkan larutan semalam,lalu sarung Cara menggunakan: -\tSemprotkan pada tanaman yang terserang penyakit"
+            }
+        ]
+    },
+    {
+        "kode": "P17",
+        "nama_penyakit": "Ulat penggulung  (Leaf miner)",
+        "penyebab": "Serangga trips",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Legundi dan lidah Buaya ",
+                "solusi": "Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "
+            },
+            {
+                "nama_obat": "Ekstrak daun sirsak",
+                "solusi": "Bahan dan alat -\t50 hingga 100 daun sirsak -\t15 gram sabun atau detergen -\tEmber   -\tPisau  -\tAlat saring Cara membuat: -\tTumbuk daun sampai halus  -\tRendam di dalam 5 liter air -\tTambahkan deteren ,lalu aduk sampai tercampur rata -\tBiarkan sampai 24 jam , lalu saring Cara menggunakan: -\tEncerkan setiap 1 liter larutan hasil penyaringan dengan 10 – 15 liter air -\tSemprotkan ke seluruh bagian tanaman yang terserang hama pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Jahe",
+                "solusi": "Bahan dan alat: -\t50 gram jahe\t\t\t\t-  Alat tumbuk atau blender -\t12 ml detergen\t\t\t\t-  Saringan -\t3 liter air\t\t\t\t-   Ember Cara membuat:\t -\tHancurkan jahe sampai halus -\tTambahkan air dan detergen -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Jahe, Bawang putih dan Cabai ",
+                "solusi": "Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun pepaya ",
+                "solusi": "Bahan dan alat: -\tI kg daun pepaya -\t10 liter air -\tDetergen atau sabun -\tKain halus Cara membuat: -\tHancurkan daun pepaya sampai halus -\tTambahkan 10 liter air -\tAduk hingga merata -\tSaring menggunakan kain halus -\tTambahkan detergen, lalu aduk hingga tercampu rata -\tTambahkan 4 liter air ke dalam larutan Cara menggunakan: -  semprotkan ke bagian tanaman yang terserang hama pada pagi hari"
+            }
+        ]
+    },
+    {
+        "kode": "P13",
+        "nama_penyakit": "penggorok daun",
+        "penyebab": "Hama lalat liriomyza",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Cabai Merah",
+                "solusi": "Bahan dan alat: -\t½ kg cabai merah atau biji cabai merah -\t30 gram sabun atau detergen -\tPanci -\tPenyaring Cara membuat: -\tRebus cabai merah atau biji cabai merah ke dalam panci selama 15 sampai 20 menit -\tMatikan api dan tambahkan 3 liter air -\tBiarkan sampai dingin lalu saring -\tTambahkan sabun atau detergen -\tAduk hingga  rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Kipait, Laos, Serai Wangi",
+                "solusi": "Bahan dan alat: -\t8 kg kipait\t\t\t\t-  Panci -\t6 kg laos\t\t\t\t-  Alat tumbu atau blender -\t6 kg serai wangi\t\t\t-  Ember -\t20 liter air\t\t\t\t-  Drum atudrigen kapasitas 20 liter -\tPerekat  Cara membuat:  -\tCincang kipait, laos, serai wangi, lalu tumbuk sampai halus -\tMasukkan bahan-bahan yang telah di tumbuk kedalam ember atau drum yang telah si isi air -\tDiamkan selama 24 jam,lalu saring -\tTambahkan air sampai menjadi 20liter larutan Cara menggunakan: -\tUntuk menyemprot 1 ha lahan,larutan harus di campus dengan air. Perbandingan air dengan larutan 560 : 1 -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi hari"
+            },
+            {
+                "nama_obat": "Ekstrak Jahe, Bawang putih dan Cabai ",
+                "solusi": "Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P18",
+        "nama_penyakit": "Kutu daun",
+        "penyebab": "Serangga",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Cabai Merah",
+                "solusi": "Bahan dan alat: -\t½ kg cabai merah atau biji cabai merah -\t30 gram sabun atau detergen -\tPanci -\tPenyaring Cara membuat: -\tRebus cabai merah atau biji cabai merah ke dalam panci selama 15 sampai 20 menit -\tMatikan api dan tambahkan 3 liter air -\tBiarkan sampai dingin lalu saring -\tTambahkan sabun atau detergen -\tAduk hingga  rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Kombinasi ekstrak Cabai Merah dengan biji Mimba",
+                "solusi": "Bahan dan alat: -\t12 buah cabai merah \t\t\t-  Ember -\t200 garm biji kering mimba\t\t-  Alat penumbuk -\t4 liter air\t\t\t\t\t-  Pisau Cara membuat : -\tHancurkan cabai merah dan biji mimba sampai halus -\tRendam selama 24 jam  -\tTambahkan serbuk cabai merah -\tAduk hingga rata , lalu saring Cara menggunakan: -\tTuang dalam sprayer -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi dan sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun gamal dan Mimba",
+                "solusi": "Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"
+            },
+            {
+                "nama_obat": "Ekstrak Pacar Cina",
+                "solusi": "Bahan dan alat: -\t5 hingga 100 gram ranting atau kulit batang -\t1 gram sabun atau detergen   -\tEmber  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tHancurkan kulit batang atau ranting -\tRebus dengan 1 liter  air selama 45 – 75 menit -\tDinginkan, lau tambahkan deterjen -\tAduk sampai merata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi hari  13.Hama trips, ulat penggulung daun"
+            },
+            {
+                "nama_obat": "Ekstrak kunyit",
+                "solusi": "Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak lengkuas\t",
+                "solusi": "Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak bawang putih ",
+                "solusi": "Bahan dan alat: -\t100 gram bawang putih -\t2 sendok makan minyak sayur -\t10,5 liter air -\t10 ml detergen atau sabun  Cara membuat:\t -\thancurkan bawang putih sampai halus -\trendam dalam minyak sayur selama 24 jam -\ttambahkan ½ liter air dan detergen -\taduk sampai rata, lalu saring Cara menggunakan: -\ttambahkan 10 liter air dalam larutan  -\tkocok sebelum di gunakan -\tsemprot ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"
+            }
+        ]
+    },
+    {
+        "kode": "P07",
+        "nama_penyakit": "Karat daun",
+        "penyebab": "Fungi (jamur ) menular melalui udara, suhu udara tidak stabil",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Kipait, Laos, Serai Wangi",
+                "solusi": "Bahan dan alat: -\t8 kg kipait\t\t\t\t-  Panci -\t6 kg laos\t\t\t\t-  Alat tumbu atau blender -\t6 kg serai wangi\t\t\t-  Ember -\t20 liter air\t\t\t\t-  Drum atudrigen kapasitas 20 liter -\tPerekat  Cara membuat:  -\tCincang kipait, laos, serai wangi, lalu tumbuk sampai halus -\tMasukkan bahan-bahan yang telah di tumbuk kedalam ember atau drum yang telah si isi air -\tDiamkan selama 24 jam,lalu saring -\tTambahkan air sampai menjadi 20liter larutan Cara menggunakan: -\tUntuk menyemprot 1 ha lahan,larutan harus di campus dengan air. Perbandingan air dengan larutan 560 : 1 -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi hari"
+            }
+        ]
+    },
+    {
+        "kode": "P21",
+        "nama_penyakit": "Bercak coklat  ( Alternaria)",
+        "penyebab": "Fungi (jamur), menyebar melalui udara",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Ekstrak Kipait, Laos, Serai Wangi",
+                "solusi": "Bahan dan alat: -\t8 kg kipait\t\t\t\t-  Panci -\t6 kg laos\t\t\t\t-  Alat tumbu atau blender -\t6 kg serai wangi\t\t\t-  Ember -\t20 liter air\t\t\t\t-  Drum atudrigen kapasitas 20 liter -\tPerekat  Cara membuat:  -\tCincang kipait, laos, serai wangi, lalu tumbuk sampai halus -\tMasukkan bahan-bahan yang telah di tumbuk kedalam ember atau drum yang telah si isi air -\tDiamkan selama 24 jam,lalu saring -\tTambahkan air sampai menjadi 20liter larutan Cara menggunakan: -\tUntuk menyemprot 1 ha lahan,larutan harus di campus dengan air. Perbandingan air dengan larutan 560 : 1 -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun iler",
+                "solusi": "Bahan dan alat: -\t5 kg daun iler  -\t5 liter air  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tcuci daun sampai bersih -\ttumbuk sampai halus -\ttambahkan air lalu saring Cara menggunakan: -\tsemprotkan pada tanaman yang terserang pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Tanaman Putri Malu",
+                "solusi": "Bahan dan Alat -\t10 kg tanaman Putri malu  -\t5 liter air -\tPisau -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tCuci tanaman hingga bersih -\tCacah dengan pisau -\tTumbuk atau giling sampai halus -\tRendam di dalam air selama 24 jam, lalu saring  Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit pada pagi  atau sore atau pagi hari"
+            }
+        ]
+    },
+    {
+        "kode": "P22",
+        "nama_penyakit": "Kutu kebul",
+        "penyebab": "Hama (Serangga)",
+        "pencegahan": "TESTING",
+        "solusi": [
+            {
+                "nama_obat": "Kombinasi ekstrak Cabai Merah dan daun Mimba",
+                "solusi": "Bahan dan Alat: -\t10 sampai 20 buah cabai merah\t\t\t-  2 sendok the sabun -\t2 sampai 2,5 daun mimba segar\t\t\t-  Alat tumbuk atau blender -\t21 liter air\t\t\t\t\t-  Ember Cara membuat: -\tHancurkan cabai merah dengan daun mimba sampai halus -\tTambahkan 1 liter air -\tBiarkan selama 24 jam -\tSaring -\tTambahkan 20 liter air dan sabun kedalam larutan  -\tAduk hingga rata Cara menggunakan: -\tKocok dahulu sebelum digunakan -\tTuang larutan kedalam sprayer, lalu semprotkan ke bagian tanaman yang terserang hama pada pagi dan sore hari"
+            },
+            {
+                "nama_obat": "Kombinasi ekstrak Cabai Merah dengan biji Mimba",
+                "solusi": "Bahan dan alat: -\t12 buah cabai merah \t\t\t-  Ember -\t200 garm biji kering mimba\t\t-  Alat penumbuk -\t4 liter air\t\t\t\t\t-  Pisau Cara membuat : -\tHancurkan cabai merah dan biji mimba sampai halus -\tRendam selama 24 jam  -\tTambahkan serbuk cabai merah -\tAduk hingga rata , lalu saring Cara menggunakan: -\tTuang dalam sprayer -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi dan sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun gamal dan Mimba",
+                "solusi": "Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"
+            },
+            {
+                "nama_obat": "Ekstrak Jahe",
+                "solusi": "Bahan dan alat: -\t50 gram jahe\t\t\t\t-  Alat tumbuk atau blender -\t12 ml detergen\t\t\t\t-  Saringan -\t3 liter air\t\t\t\t-   Ember Cara membuat:\t -\tHancurkan jahe sampai halus -\tTambahkan air dan detergen -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak Jahe, Bawang putih dan Cabai ",
+                "solusi": "Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"
+            },
+            {
+                "nama_obat": "Ekstrak daun pepaya ",
+                "solusi": "Bahan dan alat: -\tI kg daun pepaya -\t10 liter air -\tDetergen atau sabun -\tKain halus Cara membuat: -\tHancurkan daun pepaya sampai halus -\tTambahkan 10 liter air -\tAduk hingga merata -\tSaring menggunakan kain halus -\tTambahkan detergen, lalu aduk hingga tercampu rata -\tTambahkan 4 liter air ke dalam larutan Cara menggunakan: -  semprotkan ke bagian tanaman yang terserang hama pada pagi hari"
+            }
+        ]
+    }
+]
+}
+,{"type":"table","name":"rule","database":"sikar","data":
+[
+{"jika":"G01ANDG02","maka":"P01"},
+{"jika":"G03ANDG04","maka":"P02"},
+{"jika":"G05ANDG40","maka":"P03"},
+{"jika":"G06ANDG07ANDG08","maka":"P04"},
+{"jika":"G07ANDG10ANDG12ANDG13ANDG15ANDG39","maka":"P08"},
+{"jika":"G07ANDG11ANDG32","maka":"P14"},
+{"jika":"G09","maka":"P05"},
+{"jika":"G14 ANDG36","maka":"P06"},
+{"jika":"G16","maka":"P09"},
+{"jika":"G17ANDG18ANDG19ANDG20","maka":"P10"},
+{"jika":"G18ANDG32","maka":"P15"},
+{"jika":"G18ANDG36","maka":"P19"},
+{"jika":"G21ANDG22ANDG23ANDG24","maka":"P11"},
+{"jika":"G25ANDG26ANDG27ANDG28","maka":"P12"},
+{"jika":"G29ANDG19ANDG18","maka":"P16"},
+{"jika":"G30ANDG18ANDG25","maka":"P20"},
+{"jika":"G30ANDG33ANDG34ANDG10","maka":"P17"},
+{"jika":"G31","maka":"P13"},
+{"jika":"G35","maka":"P18"},
+{"jika":"G37ANDG07","maka":"P07"},
+{"jika":"G37ANDG36","maka":"P21"},
+{"jika":"G38","maka":"P22"}
+]
+}
+,{"type":"table","name":"solusi","database":"sikar","data":
+[
+{"id":"1","kd_solusi":"S01","kd_pencegahan":"PP14","nama_obat":"Brotowali","solusi":"Bahan dan alat : -\t200 gram batang brotowali\t- 1 liter air -\t Alat tumbuk\t\t\t-  Blender  -\t Pisau\t\t\t\t-  Ember  Cara membuat: -\tRajang batang brotowali dengan pisau lalu tumbuk atau bleder -\tRendam dalam 1 liter air, aduk, lalu saring  Cara menggunakan: -\tRendam benih yang akan di tanam selama 24 jam di dalam larutan tersebut   -\tSemprotkan ke bagian tanaman yang terserang hama atau penyakit ini, pada pagi atau sore hari"},
+{"id":"2","kd_solusi":"S01","kd_pencegahan":"PP20","nama_obat":"Brotowali","solusi":"Bahan dan alat : -\t200 gram batang brotowali\t- 1 liter air -\t Alat tumbuk\t\t\t-  Blender  -\t Pisau\t\t\t\t-  Ember  Cara membuat: -\tRajang batang brotowali dengan pisau lalu tumbuk atau bleder -\tRendam dalam 1 liter air, aduk, lalu saring  Cara menggunakan: -\tRendam benih yang akan di tanam selama 24 jam di dalam larutan tersebut   -\tSemprotkan ke bagian tanaman yang terserang hama atau penyakit ini, pada pagi atau sore hari"},
+{"id":"3","kd_solusi":"S02","kd_pencegahan":"PP14","nama_obat":"Ekstrak buah Mengkudu","solusi":"Bahan dan Alat:  -\t1 kg buah mengkudu matang\t\t-  0,5 kg daun nangka -\t0,5 kg tembakau\t\t\t\t-  1 sampai 2 gram detergen -\t1 sampai 5 liter air\t\t\t\t\t-  Alat tumbuk atau blender -\tSaringan  Cara membuat: -\tHancurkan semua bahan hingga halus menggunakan blender atau alat tumbuk -\tTambahkan 2-5 liter air, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang pada pagi hari"},
+{"id":"4","kd_solusi":"S03","kd_pencegahan":"PP14","nama_obat":"Kombinasi ekstrak Cabe, Bawang Merah dan Bawang Putih","solusi":"Bahan dan alat: -\t1 sendok the bubuk cabe\t\t-  1 siung bawang putih -\t1 butir bawang merah\t\t-  1 liter air -\t1 sendok teh sabun\t\t\t-  Pisau -\tSaringan \t\t\t\t-  Ember Cara menbuat : -\tHancurkan bawang putih dan bawang merah -\tCampurkan dengan bubuk cabe -\tTambahkan air dan aduk rata -\tBiarkan larut dalam 1 jam, lalu saring Cara menggunakan: -\tSemprotkan ke tanaman yang terserang hama pada pagi atau sore hari.ulangi penyemprotan bila perlu -\tApabila tidak mempunyai sprayer ,gunakan sikat yang terbuat dari jerami.caranya celupkan jerami kedalam cairan lalu sikatkan ke bagian tanaman yang terserang hama"},
+{"id":"5","kd_solusi":"S04","kd_pencegahan":"PP13","nama_obat":"Ekstrak Cabai Merah","solusi":"Bahan dan alat: -\t½ kg cabai merah atau biji cabai merah -\t30 gram sabun atau detergen -\tPanci -\tPenyaring Cara membuat: -\tRebus cabai merah atau biji cabai merah ke dalam panci selama 15 sampai 20 menit -\tMatikan api dan tambahkan 3 liter air -\tBiarkan sampai dingin lalu saring -\tTambahkan sabun atau detergen -\tAduk hingga  rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"6","kd_solusi":"S04","kd_pencegahan":"PP18","nama_obat":"Ekstrak Cabai Merah","solusi":"Bahan dan alat: -\t½ kg cabai merah atau biji cabai merah -\t30 gram sabun atau detergen -\tPanci -\tPenyaring Cara membuat: -\tRebus cabai merah atau biji cabai merah ke dalam panci selama 15 sampai 20 menit -\tMatikan api dan tambahkan 3 liter air -\tBiarkan sampai dingin lalu saring -\tTambahkan sabun atau detergen -\tAduk hingga  rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"7","kd_solusi":"S05","kd_pencegahan":"PP14","nama_obat":"Ekstrak Sirih dan Tembakau","solusi":"Bahan dan alat: -\tDaun sirih 50 lembar\t\t-  Ember  -\tDaun tembakau 5 lembar\t\t-  Alat penyaring -\t20 liter air\t\t\t\t-  Alat penumbuk -\tSabun cair 20 gram\t\t- Alat pengaduk Cara membuat -\tTumbuk daun sirih dan tembakau hingga halus -\tMasukkan bahan yang sudah di haluskan kedalam ember lalu campur dengan air  dan aduk hingga rata Diamkan selama satu malam -\tSaring larutan lalu encerkan dengan 50 sampai 60 liter air Cara menggunakan: -\tSemprotkan pada tanaman yang terserang "},
+{"id":"8","kd_solusi":"S06","kd_pencegahan":"PP20","nama_obat":"Ekstrak Mimba ","solusi":"Bahan dan alat: -\tAir 1 liter\t\t\t\t-  Baskom atau ember -\tAlkohol 70% 1 cc\t\t\t-  Alat penyaring -\tDaun mimba 50 gram\t\t            -  Sprayer -\tAlat penumbuk\/penghalus Cara membuat: -\tTumbuk daun mimba hingga halus -\tMasukkan bahn yang sudah halus kedalam ember -\tTambahkan alkohol dan aduk hingga rata -\tEncerkan dengan 1 liter air -\tEndapkan larutan semalam,lalu sarung Cara menggunakan: -\tSemprotkan pada tanaman yang terserang penyakit"},
+{"id":"9","kd_solusi":"S07","kd_pencegahan":"PP12","nama_obat":"Kombinasi ekstrak Cabai Merah dan daun Mimba","solusi":"Bahan dan Alat: -\t10 sampai 20 buah cabai merah\t\t\t-  2 sendok the sabun -\t2 sampai 2,5 daun mimba segar\t\t\t-  Alat tumbuk atau blender -\t21 liter air\t\t\t\t\t-  Ember Cara membuat: -\tHancurkan cabai merah dengan daun mimba sampai halus -\tTambahkan 1 liter air -\tBiarkan selama 24 jam -\tSaring -\tTambahkan 20 liter air dan sabun kedalam larutan  -\tAduk hingga rata Cara menggunakan: -\tKocok dahulu sebelum digunakan -\tTuang larutan kedalam sprayer, lalu semprotkan ke bagian tanaman yang terserang hama pada pagi dan sore hari"},
+{"id":"10","kd_solusi":"S07","kd_pencegahan":"PP15","nama_obat":"Kombinasi ekstrak Cabai Merah dan daun Mimba","solusi":"Bahan dan Alat: -\t10 sampai 20 buah cabai merah\t\t\t-  2 sendok the sabun -\t2 sampai 2,5 daun mimba segar\t\t\t-  Alat tumbuk atau blender -\t21 liter air\t\t\t\t\t-  Ember Cara membuat: -\tHancurkan cabai merah dengan daun mimba sampai halus -\tTambahkan 1 liter air -\tBiarkan selama 24 jam -\tSaring -\tTambahkan 20 liter air dan sabun kedalam larutan  -\tAduk hingga rata Cara menggunakan: -\tKocok dahulu sebelum digunakan -\tTuang larutan kedalam sprayer, lalu semprotkan ke bagian tanaman yang terserang hama pada pagi dan sore hari"},
+{"id":"11","kd_solusi":"S07","kd_pencegahan":"PP22","nama_obat":"Kombinasi ekstrak Cabai Merah dan daun Mimba","solusi":"Bahan dan Alat: -\t10 sampai 20 buah cabai merah\t\t\t-  2 sendok the sabun -\t2 sampai 2,5 daun mimba segar\t\t\t-  Alat tumbuk atau blender -\t21 liter air\t\t\t\t\t-  Ember Cara membuat: -\tHancurkan cabai merah dengan daun mimba sampai halus -\tTambahkan 1 liter air -\tBiarkan selama 24 jam -\tSaring -\tTambahkan 20 liter air dan sabun kedalam larutan  -\tAduk hingga rata Cara menggunakan: -\tKocok dahulu sebelum digunakan -\tTuang larutan kedalam sprayer, lalu semprotkan ke bagian tanaman yang terserang hama pada pagi dan sore hari"},
+{"id":"12","kd_solusi":"S08","kd_pencegahan":"PP18","nama_obat":"Kombinasi ekstrak Cabai Merah dengan biji Mimba","solusi":"Bahan dan alat: -\t12 buah cabai merah \t\t\t-  Ember -\t200 garm biji kering mimba\t\t-  Alat penumbuk -\t4 liter air\t\t\t\t\t-  Pisau Cara membuat : -\tHancurkan cabai merah dan biji mimba sampai halus -\tRendam selama 24 jam  -\tTambahkan serbuk cabai merah -\tAduk hingga rata , lalu saring Cara menggunakan: -\tTuang dalam sprayer -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi dan sore hari"},
+{"id":"13","kd_solusi":"S08","kd_pencegahan":"PP22","nama_obat":"Kombinasi ekstrak Cabai Merah dengan biji Mimba","solusi":"Bahan dan alat: -\t12 buah cabai merah \t\t\t-  Ember -\t200 garm biji kering mimba\t\t-  Alat penumbuk -\t4 liter air\t\t\t\t\t-  Pisau Cara membuat : -\tHancurkan cabai merah dan biji mimba sampai halus -\tRendam selama 24 jam  -\tTambahkan serbuk cabai merah -\tAduk hingga rata , lalu saring Cara menggunakan: -\tTuang dalam sprayer -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi dan sore hari"},
+{"id":"14","kd_solusi":"S09","kd_pencegahan":"PP16","nama_obat":"Ekstrak daun gamal dan Mimba","solusi":"Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"},
+{"id":"15","kd_solusi":"S09","kd_pencegahan":"PP18","nama_obat":"Ekstrak daun gamal dan Mimba","solusi":"Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"},
+{"id":"16","kd_solusi":"S09","kd_pencegahan":"PP19","nama_obat":"Ekstrak daun gamal dan Mimba","solusi":"Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"},
+{"id":"17","kd_solusi":"S09","kd_pencegahan":"PP22","nama_obat":"Ekstrak daun gamal dan Mimba","solusi":"Bahan dan alat: -\t1 kg daun gamal\t\t\t\t-  Pisau -\t1 kg daun mimba\t\t\t\t-  Alat tumbuk atau blender -\t25 liter air\t\t\t\t\t-  Saringan Cara membuat:\t -\tTumbuk daun gamal dan daun mimba sampai halus -\tRendam di dalam 5 liter air selama 3 hari -\tSaring dengan kain halus Cara menggunakan: -\tTambahkan 20 liter air  -\tSemprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari dengan interval 4 sampai 5 hari"},
+{"id":"18","kd_solusi":"S10","kd_pencegahan":"PP07","nama_obat":"Ekstrak Kipait, Laos, Serai Wangi","solusi":"Bahan dan alat: -\t8 kg kipait\t\t\t\t-  Panci -\t6 kg laos\t\t\t\t-  Alat tumbu atau blender -\t6 kg serai wangi\t\t\t-  Ember -\t20 liter air\t\t\t\t-  Drum atudrigen kapasitas 20 liter -\tPerekat  Cara membuat:  -\tCincang kipait, laos, serai wangi, lalu tumbuk sampai halus -\tMasukkan bahan-bahan yang telah di tumbuk kedalam ember atau drum yang telah si isi air -\tDiamkan selama 24 jam,lalu saring -\tTambahkan air sampai menjadi 20liter larutan Cara menggunakan: -\tUntuk menyemprot 1 ha lahan,larutan harus di campus dengan air. Perbandingan air dengan larutan 560 : 1 -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi hari"},
+{"id":"19","kd_solusi":"S10","kd_pencegahan":"PP13","nama_obat":"Ekstrak Kipait, Laos, Serai Wangi","solusi":"Bahan dan alat: -\t8 kg kipait\t\t\t\t-  Panci -\t6 kg laos\t\t\t\t-  Alat tumbu atau blender -\t6 kg serai wangi\t\t\t-  Ember -\t20 liter air\t\t\t\t-  Drum atudrigen kapasitas 20 liter -\tPerekat  Cara membuat:  -\tCincang kipait, laos, serai wangi, lalu tumbuk sampai halus -\tMasukkan bahan-bahan yang telah di tumbuk kedalam ember atau drum yang telah si isi air -\tDiamkan selama 24 jam,lalu saring -\tTambahkan air sampai menjadi 20liter larutan Cara menggunakan: -\tUntuk menyemprot 1 ha lahan,larutan harus di campus dengan air. Perbandingan air dengan larutan 560 : 1 -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi hari"},
+{"id":"20","kd_solusi":"S10","kd_pencegahan":"PP21","nama_obat":"Ekstrak Kipait, Laos, Serai Wangi","solusi":"Bahan dan alat: -\t8 kg kipait\t\t\t\t-  Panci -\t6 kg laos\t\t\t\t-  Alat tumbu atau blender -\t6 kg serai wangi\t\t\t-  Ember -\t20 liter air\t\t\t\t-  Drum atudrigen kapasitas 20 liter -\tPerekat  Cara membuat:  -\tCincang kipait, laos, serai wangi, lalu tumbuk sampai halus -\tMasukkan bahan-bahan yang telah di tumbuk kedalam ember atau drum yang telah si isi air -\tDiamkan selama 24 jam,lalu saring -\tTambahkan air sampai menjadi 20liter larutan Cara menggunakan: -\tUntuk menyemprot 1 ha lahan,larutan harus di campus dengan air. Perbandingan air dengan larutan 560 : 1 -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi hari"},
+{"id":"21","kd_solusi":"S11","kd_pencegahan":"PP01","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"22","kd_solusi":"S11","kd_pencegahan":"PP02","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"23","kd_solusi":"S11","kd_pencegahan":"PP03","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"24","kd_solusi":"S11","kd_pencegahan":"PP04","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"25","kd_solusi":"S11","kd_pencegahan":"PP05","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"26","kd_solusi":"S11","kd_pencegahan":"PP06","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"27","kd_solusi":"S11","kd_pencegahan":"PP10","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"28","kd_solusi":"S11","kd_pencegahan":"PP11","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"29","kd_solusi":"S11","kd_pencegahan":"PP15","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"30","kd_solusi":"S11","kd_pencegahan":"PP17","nama_obat":"Ekstrak Legundi dan lidah Buaya ","solusi":"Bahan dan alat: -\t5 kg daun legndi\t\t\t\t-  Pemanas atau kompor panci -\t2 kg daun lidah buaya\t\t\t-  Ember  -\t50 sampai 60 jl sabun -\t60 litar hingga 70 liter air Cara membuat: Membuat ekstrak daun legundi -\tRendam daun legundi dalam 10 liter air -\tDidihkan sampai 30 menit -\tDinginkan, lalu saring Membuat ekstrak lidah buaya -\tHilangkan bagian luar kulit lidah buaya -\tGiling dan tambahkan agar di proleh ekstrak -\tSaring ekatrak yang di peroleh -\tCampur  kedua ekstrak Cara menggunakan: -\tTambahkan 20 hingga 60 liter air kedalam  ekstrak -\tTambahkan sabun sambil diaduk hingga tercampur merata -\tSegera lakukan penyemprotan pada tanaman yang terserang -\tPenyemprotan dilakukan pada pagi atau sore hari Dapat digunakan untuk luasan lahan sekitar 0,4 ha "},
+{"id":"31","kd_solusi":"S12","kd_pencegahan":"PP18","nama_obat":"Ekstrak Pacar Cina","solusi":"Bahan dan alat: -\t5 hingga 100 gram ranting atau kulit batang -\t1 gram sabun atau detergen   -\tEmber  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tHancurkan kulit batang atau ranting -\tRebus dengan 1 liter  air selama 45 – 75 menit -\tDinginkan, lau tambahkan deterjen -\tAduk sampai merata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi hari  13.Hama trips, ulat penggulung daun"},
+{"id":"32","kd_solusi":"S12","kd_pencegahan":"PP19","nama_obat":"Ekstrak Pacar Cina","solusi":"Bahan dan alat: -\t5 hingga 100 gram ranting atau kulit batang -\t1 gram sabun atau detergen   -\tEmber  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tHancurkan kulit batang atau ranting -\tRebus dengan 1 liter  air selama 45 – 75 menit -\tDinginkan, lau tambahkan deterjen -\tAduk sampai merata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi hari  13.Hama trips, ulat penggulung daun"},
+{"id":"33","kd_solusi":"S13","kd_pencegahan":"PP17","nama_obat":"Ekstrak daun sirsak","solusi":"Bahan dan alat -\t50 hingga 100 daun sirsak -\t15 gram sabun atau detergen -\tEmber   -\tPisau  -\tAlat saring Cara membuat: -\tTumbuk daun sampai halus  -\tRendam di dalam 5 liter air -\tTambahkan deteren ,lalu aduk sampai tercampur rata -\tBiarkan sampai 24 jam , lalu saring Cara menggunakan: -\tEncerkan setiap 1 liter larutan hasil penyaringan dengan 10 – 15 liter air -\tSemprotkan ke seluruh bagian tanaman yang terserang hama pada pagi atau sore hari"},
+{"id":"34","kd_solusi":"S14","kd_pencegahan":"PP04","nama_obat":"Fermentasi ekstrak kenikir","solusi":"Bahan dan alat -\t5 hingga 10 tanaman kenikir yang sedang berbunga -\t20 liter air -\tDetergen atau sabun -\tAlat penyaring -\tDrum  Cara membuat: -\tMasukkan tanaman kenikir dan air ke dalam drum -\tBiarkan selama 5 sampai 10 hari -\tAduk secara berkala dan saring sebelum digunakan Cara menggunakan: -\tCampurkan larutan hasil fermentasi dengan air perbandingan 1 : 2 -\tTambahkan 1 sendok the detergen setiap 1 liter air -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"35","kd_solusi":"S14","kd_pencegahan":"PP08","nama_obat":"Fermentasi ekstrak kenikir","solusi":"Bahan dan alat -\t5 hingga 10 tanaman kenikir yang sedang berbunga -\t20 liter air -\tDetergen atau sabun -\tAlat penyaring -\tDrum  Cara membuat: -\tMasukkan tanaman kenikir dan air ke dalam drum -\tBiarkan selama 5 sampai 10 hari -\tAduk secara berkala dan saring sebelum digunakan Cara menggunakan: -\tCampurkan larutan hasil fermentasi dengan air perbandingan 1 : 2 -\tTambahkan 1 sendok the detergen setiap 1 liter air -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"36","kd_solusi":"S15","kd_pencegahan":"PP05","nama_obat":"Ekstrak Jahe","solusi":"Bahan dan alat: -\t50 gram jahe\t\t\t\t-  Alat tumbuk atau blender -\t12 ml detergen\t\t\t\t-  Saringan -\t3 liter air\t\t\t\t-   Ember Cara membuat:\t -\tHancurkan jahe sampai halus -\tTambahkan air dan detergen -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi atau sore hari"},
+{"id":"37","kd_solusi":"S15","kd_pencegahan":"PP17","nama_obat":"Ekstrak Jahe","solusi":"Bahan dan alat: -\t50 gram jahe\t\t\t\t-  Alat tumbuk atau blender -\t12 ml detergen\t\t\t\t-  Saringan -\t3 liter air\t\t\t\t-   Ember Cara membuat:\t -\tHancurkan jahe sampai halus -\tTambahkan air dan detergen -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi atau sore hari"},
+{"id":"38","kd_solusi":"S15","kd_pencegahan":"PP22","nama_obat":"Ekstrak Jahe","solusi":"Bahan dan alat: -\t50 gram jahe\t\t\t\t-  Alat tumbuk atau blender -\t12 ml detergen\t\t\t\t-  Saringan -\t3 liter air\t\t\t\t-   Ember Cara membuat:\t -\tHancurkan jahe sampai halus -\tTambahkan air dan detergen -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan pada tanaman yang terserang pada pagi atau sore hari"},
+{"id":"39","kd_solusi":"S16","kd_pencegahan":"PP13","nama_obat":"Ekstrak Jahe, Bawang putih dan Cabai ","solusi":"Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"40","kd_solusi":"S16","kd_pencegahan":"PP15","nama_obat":"Ekstrak Jahe, Bawang putih dan Cabai ","solusi":"Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"41","kd_solusi":"S16","kd_pencegahan":"PP17","nama_obat":"Ekstrak Jahe, Bawang putih dan Cabai ","solusi":"Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"42","kd_solusi":"S16","kd_pencegahan":"PP22","nama_obat":"Ekstrak Jahe, Bawang putih dan Cabai ","solusi":"Bahan dan alat: -\t25 gram jahe\t\t\t\t-  3 liter air -\t50 gram bawang putih\t\t\t-  Alat tumbuk atau blender -\t25 gram cabai hijau\t\t\t-  Saringan -\t12 ml sabun atau detergen\t\t\t-  Ember -\t10 ml minyak tanah  Ket : Untuk luas lahan 0,4 ha di butuhkan ½ kg jahe, ½  kg cabai hijau dan 1 kg bawang putih. Cara membuat: -\tRendam bawang putih di dalam minyak tanah selama 24 jam -\tHancurkan cabai hijau lalu campurkan dengan 50 ml air -\tHancurkan jahe sampai halus -\tCampurkan cabe hijau , jahe, dan bawang putih yang telah dihaluskan -\tTambahkan sabun atau detergen -\tAduk hingga rata, lalu saring dengan kain halus Cara menggunakan:\t -\tSemprotkan kebagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"43","kd_solusi":"S17","kd_pencegahan":"PP04","nama_obat":"Ekstrak Jahe bubuk","solusi":"Bahan dan alat -\t20 gram bubuk jahe -\t1 liter air -\tEmber Cara membuat: -\tMasukkan bubuk jahe ke alam air  -\tAduk rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang pagi atau sore hari"},
+{"id":"44","kd_solusi":"S17","kd_pencegahan":"PP09","nama_obat":"Ekstrak Jahe bubuk","solusi":"Bahan dan alat -\t20 gram bubuk jahe -\t1 liter air -\tEmber Cara membuat: -\tMasukkan bubuk jahe ke alam air  -\tAduk rata Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang pagi atau sore hari"},
+{"id":"45","kd_solusi":"S18","kd_pencegahan":"PP10","nama_obat":"Ekstrak daun cengkih","solusi":"Bahan dan alat: -\t50 sampai 100 gram dauncengkeh kering -\tAlat tumbuk atau blender Cara membuat: -\tTumbuk daun cengkih sampai halus  Cara menggunakan: -\tTaburkan di sekitar tanaman yang terserang penyakit"},
+{"id":"46","kd_solusi":"S19","kd_pencegahan":"PP06","nama_obat":"Ekstrak daun iler","solusi":"Bahan dan alat: -\t5 kg daun iler  -\t5 liter air  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tcuci daun sampai bersih -\ttumbuk sampai halus -\ttambahkan air lalu saring Cara menggunakan: -\tsemprotkan pada tanaman yang terserang pagi atau sore hari"},
+{"id":"47","kd_solusi":"S19","kd_pencegahan":"PP21","nama_obat":"Ekstrak daun iler","solusi":"Bahan dan alat: -\t5 kg daun iler  -\t5 liter air  -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tcuci daun sampai bersih -\ttumbuk sampai halus -\ttambahkan air lalu saring Cara menggunakan: -\tsemprotkan pada tanaman yang terserang pagi atau sore hari"},
+{"id":"48","kd_solusi":"S20","kd_pencegahan":"PP09","nama_obat":"Ekstrak Tanaman Putri Malu","solusi":"Bahan dan Alat -\t10 kg tanaman Putri malu  -\t5 liter air -\tPisau -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tCuci tanaman hingga bersih -\tCacah dengan pisau -\tTumbuk atau giling sampai halus -\tRendam di dalam air selama 24 jam, lalu saring  Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit pada pagi  atau sore atau pagi hari"},
+{"id":"49","kd_solusi":"S20","kd_pencegahan":"PP21","nama_obat":"Ekstrak Tanaman Putri Malu","solusi":"Bahan dan Alat -\t10 kg tanaman Putri malu  -\t5 liter air -\tPisau -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tCuci tanaman hingga bersih -\tCacah dengan pisau -\tTumbuk atau giling sampai halus -\tRendam di dalam air selama 24 jam, lalu saring  Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit pada pagi  atau sore atau pagi hari"},
+{"id":"50","kd_solusi":"S21","kd_pencegahan":"PP04","nama_obat":"Ekstrak kunyit","solusi":"Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"},
+{"id":"51","kd_solusi":"S21","kd_pencegahan":"PP16","nama_obat":"Ekstrak kunyit","solusi":"Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"},
+{"id":"52","kd_solusi":"S21","kd_pencegahan":"PP18","nama_obat":"Ekstrak kunyit","solusi":"Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"},
+{"id":"53","kd_solusi":"S21","kd_pencegahan":"PP19","nama_obat":"Ekstrak kunyit","solusi":"Bahan dan alat: -\t20 gram parutan rimpang kunyit -\t200 ml liter urin sapi -\t8 hingga 12 ml liter detergen -\tember Cara membuat: -\tRendam parutan kunyit dalam urin sapi -\tSaring hasil rendaman  -\tTambahkan 2 sampai 3 liter air dan detergen  -\tAduk hingga rata Cara menggunakan: -\tSemprotkan ke seluruh bagian tanamn yang terserang hama pada pagi atau sore hari"},
+{"id":"54","kd_solusi":"S22","kd_pencegahan":"PP05","nama_obat":"Ekstrak daun kelor ","solusi":"Bahan dan alat: -\t5 kg daun kelor -\t5 liter air -\tPisau -\tAlat tumbuk atau blender -\tsaringan Cara membuat :\t -\tCuci bersih daun kelor -\tCacah dan tumbuk sampai halus -\tTambahkan air -\tRendam sampai 24 jam -\tSaring hasil rendaman Cara menggunakan: -\tEmprotkan ke bagian tanaman yang terserang hama pada pagi atau sore hari"},
+{"id":"55","kd_solusi":"S23","kd_pencegahan":"PP01","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"56","kd_solusi":"S23","kd_pencegahan":"PP02","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"57","kd_solusi":"S23","kd_pencegahan":"PP03","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"58","kd_solusi":"S23","kd_pencegahan":"PP04","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"59","kd_solusi":"S23","kd_pencegahan":"PP05","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"60","kd_solusi":"S23","kd_pencegahan":"PP06","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"61","kd_solusi":"S23","kd_pencegahan":"PP17","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"62","kd_solusi":"S23","kd_pencegahan":"PP18","nama_obat":"Ekstrak lengkuas\t","solusi":"Bahan dan alat: -\t1 liter air beras\t\t\t\t-  100 gram temulawak -\t100 gram lengkuas\t\t\t\t-  100 gram temu ireng -\t100 grsm kunyit\t\t\t\t-  100 gram legundi -\t100 gram jahe\t\t\t\t- 100 gtam tembakau -\t100 gram kencur\t\t\t\t-  alat tumbuk atau blender -\tSaringan kain halus\t\t\t-  air secukupnya Cara membuat: -\tBlender atau tumbuk semua bahan hingga halus -\tCampur dan tambahkan air secukupnya -\tAduk sampai rata, lalu saring Cara menggunakan: -\tSemprotkan ke seluruh bagian tanaman yang terserang hama atau penyakit pada pagi atau sore hari"},
+{"id":"63","kd_solusi":"S24","kd_pencegahan":"PP04","nama_obat":"Ekstrak daun pepaya ","solusi":"Bahan dan alat: -\t50 gram irisan daun pepaya  -\t8 sampai 12 ml detergen atau sabun -\tAir  -\tEmber -\tsaringan Cara membuat: -\tRendam irisan daun epaya dalam 100 ml air  -\tAduk hingga tercampur rata -\tRendam selama 24 jam -\tPeras larutan dengan kain halus -\tTambahkan 2 sampai 3 liter air -\tAduk hingga rata  Cara mengguankan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit atau hama pada pagi atau sore hari"},
+{"id":"64","kd_solusi":"S24","kd_pencegahan":"PP12","nama_obat":"Ekstrak daun pepaya ","solusi":"Bahan dan alat: -\t50 gram irisan daun pepaya  -\t8 sampai 12 ml detergen atau sabun -\tAir  -\tEmber -\tsaringan Cara membuat: -\tRendam irisan daun epaya dalam 100 ml air  -\tAduk hingga tercampur rata -\tRendam selama 24 jam -\tPeras larutan dengan kain halus -\tTambahkan 2 sampai 3 liter air -\tAduk hingga rata  Cara mengguankan: -\tSemprotkan ke seluruh bagian tanaman yang terserang penyakit atau hama pada pagi atau sore hari"},
+{"id":"65","kd_solusi":"S25","kd_pencegahan":"PP16","nama_obat":"Ekstrak daun pepaya ","solusi":"Bahan dan alat: -\t1 kg daun pepaya -\t10 literair -\tDetergen atau sabun -\tAlat tumbuk atau blender -\tSaringan Cara membuat: -\tHancurkan daun pepaya -\tTambahkan 10 liter air -\tBiarkan selama 2 hari -\tTambahkan  detergen atau sabun,lalu aduk hingga tercampur merata Cara menggunakan: -\tSemprotkan ke seluruh  bagian tanaman yang terkena panyakit pada pagi hari"},
+{"id":"66","kd_solusi":"S26","kd_pencegahan":"PP17","nama_obat":"Ekstrak daun pepaya ","solusi":"Bahan dan alat: -\tI kg daun pepaya -\t10 liter air -\tDetergen atau sabun -\tKain halus Cara membuat: -\tHancurkan daun pepaya sampai halus -\tTambahkan 10 liter air -\tAduk hingga merata -\tSaring menggunakan kain halus -\tTambahkan detergen, lalu aduk hingga tercampu rata -\tTambahkan 4 liter air ke dalam larutan Cara menggunakan: -  semprotkan ke bagian tanaman yang terserang hama pada pagi hari"},
+{"id":"67","kd_solusi":"S26","kd_pencegahan":"PP22","nama_obat":"Ekstrak daun pepaya ","solusi":"Bahan dan alat: -\tI kg daun pepaya -\t10 liter air -\tDetergen atau sabun -\tKain halus Cara membuat: -\tHancurkan daun pepaya sampai halus -\tTambahkan 10 liter air -\tAduk hingga merata -\tSaring menggunakan kain halus -\tTambahkan detergen, lalu aduk hingga tercampu rata -\tTambahkan 4 liter air ke dalam larutan Cara menggunakan: -  semprotkan ke bagian tanaman yang terserang hama pada pagi hari"},
+{"id":"68","kd_solusi":"S27","kd_pencegahan":"PP02","nama_obat":"Ekstrak daun sirih ","solusi":"Bahan dan alat:\t -\t300 gram daun sirih -\t1 liter air -\tBlender atau penumbuk Cara membuat: -\tHancurkan daun sirih sampai halus -\tCampur dengan 1 liter air Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"69","kd_solusi":"S27","kd_pencegahan":"PP02","nama_obat":"Ekstrak daun sirih ","solusi":"Bahan dan alat:\t -\t300 gram daun sirih -\t1 liter air -\tBlender atau penumbuk Cara membuat: -\tHancurkan daun sirih sampai halus -\tCampur dengan 1 liter air Cara menggunakan: -\tSemprotkan ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"70","kd_solusi":"S28","kd_pencegahan":"PP01","nama_obat":"Ekstrak Mint ","solusi":"Bahan dan alat: -\t250 gram daun mint -\t2 liter air -\tAlat tumbuk atau bender -\tPenyaring  -\tEmber  Cara membuat: -\tHancurkan daun min sampai halus -\tTambahkan air -\tAduk sampai rata, lalu saring Cara menggunakan: Semprotkan pada tanaman yang terserang penyakit atau bakteri pada pagi atau sore hari"},
+{"id":"71","kd_solusi":"S28","kd_pencegahan":"PP03","nama_obat":"Ekstrak Mint ","solusi":"Bahan dan alat: -\t250 gram daun mint -\t2 liter air -\tAlat tumbuk atau bender -\tPenyaring  -\tEmber  Cara membuat: -\tHancurkan daun min sampai halus -\tTambahkan air -\tAduk sampai rata, lalu saring Cara menggunakan: Semprotkan pada tanaman yang terserang penyakit atau bakteri pada pagi atau sore hari"},
+{"id":"72","kd_solusi":"S29","kd_pencegahan":"PP04","nama_obat":"Ekstrak Bawang putih ","solusi":"Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"},
+{"id":"73","kd_solusi":"S29","kd_pencegahan":"PP05","nama_obat":"Ekstrak Bawang putih ","solusi":"Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"},
+{"id":"74","kd_solusi":"S29","kd_pencegahan":"PP09","nama_obat":"Ekstrak Bawang putih ","solusi":"Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"},
+{"id":"75","kd_solusi":"S29","kd_pencegahan":"PP14","nama_obat":"Ekstrak Bawang putih ","solusi":"Bahan dan alat: -\t85 gram bawang putih 50 minyak sayur -\t10 ml sabun atau detergen -\t950 ml air -\tSaringan -\tbotol Cara membuat: -\thancurkan bawang putih sampe halus, lalu tambahkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan air dan sabun -\taduk sampai rata -\tsimpan di dalam botol selama 3 hari -\tcampurkan dengan 950 ml air Cara menggunakan: -\tkocok sebelum di gunakan -\tsemprotkan ke bagian tanaman yang terserang hama pada pagi hari atau sore hari"},
+{"id":"76","kd_solusi":"S30","kd_pencegahan":"PP01","nama_obat":"Ekstrak bawang putih","solusi":"Bahan  dan alat: -\t100 hingga 200 gram bawang putih -\tDetergen atau sabun -\t1 liter air -\tAlat tumbuk atau blender -\tBotol  -\tsaringan  Cara membuat: -\thancurkan bawang putih sampai halus, lalu campurkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan aircd dan detergen -\taduk hngga rata, lalu saring -\tsimpan dalam botol  Cara menggunakan: -\ttambahkan larutan air dengan perbandingan 1 : 9 air, lalu kocok sampai rata -\tsemprotkan ke semua bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"77","kd_solusi":"S30","kd_pencegahan":"PP04","nama_obat":"Ekstrak bawang putih","solusi":"Bahan  dan alat: -\t100 hingga 200 gram bawang putih -\tDetergen atau sabun -\t1 liter air -\tAlat tumbuk atau blender -\tBotol  -\tsaringan  Cara membuat: -\thancurkan bawang putih sampai halus, lalu campurkan dengan minyak sayur -\tbiarkan selama 24 jam -\ttambahkan aircd dan detergen -\taduk hngga rata, lalu saring -\tsimpan dalam botol  Cara menggunakan: -\ttambahkan larutan air dengan perbandingan 1 : 9 air, lalu kocok sampai rata -\tsemprotkan ke semua bagian tanaman yang terserang penyakit pada pagi atau sore hari"},
+{"id":"78","kd_solusi":"S31","kd_pencegahan":"PP18","nama_obat":"Ekstrak bawang putih ","solusi":"Bahan dan alat: -\t100 gram bawang putih -\t2 sendok makan minyak sayur -\t10,5 liter air -\t10 ml detergen atau sabun  Cara membuat:\t -\thancurkan bawang putih sampai halus -\trendam dalam minyak sayur selama 24 jam -\ttambahkan ½ liter air dan detergen -\taduk sampai rata, lalu saring Cara menggunakan: -\ttambahkan 10 liter air dalam larutan  -\tkocok sebelum di gunakan -\tsemprot ke bagian tanaman yang terserang penyakit pada pagi atau sore hari"}
+]
+}
+,{"type":"table","name":"user","database":"sikar","data":
+[
+{"user_id":"3","username":"hakko","password":"hakko","fullname":"Hakko Bio Richard","level":"-- Pilih L"}
+]
+}
+]
